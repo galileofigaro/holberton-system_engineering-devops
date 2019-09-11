@@ -1,0 +1,1 @@
+Learning the basics of shell, as well as practicing with git and GitHub.
