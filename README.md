@@ -1,0 +1,1 @@
+Using bash scripts to familarize myself with devops practices, and further improve proficiency with Git/GitHub.
